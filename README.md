@@ -1,2 +1,2 @@
-# data-processing
+# RS Data Processing
 Tilburg University Class
